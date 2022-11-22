@@ -38,3 +38,12 @@ h4 {
   display: flex;
   flex-wrap: wrap;
 }
+.onda-header {
+  /*background-image: url(./../images/wave.svg);*/
+  position: relative;
+  top: 490px;
+}
+.onda-section {
+  position: relative;
+  bottom: -190px;
+}
